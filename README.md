@@ -1,3 +1,7 @@
-#  Repositório de desafio de projeto Git/GitHub
+# Desafio de projeto Git/GitHub💻
 
-Desafio de Projeto sobre Git/GitHub
+Repositório criado para desafio de projeto
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
